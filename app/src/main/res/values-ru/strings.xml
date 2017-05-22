@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LearnAndroid</string>
+    <string name="btn_show">Показать</string>
+    <string name="edit_name">Имя</string>
+    <string name="edit_password">Пароль</string>
+</resources>
